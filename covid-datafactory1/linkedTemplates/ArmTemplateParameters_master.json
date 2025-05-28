@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "covid-datafactory1"
+		},
+		"ecdc_blob_ls_connectionString": {
+			"value": ""
+		},
+		"ecdc_dataleke_ls_accountKey": {
+			"value": ""
+		},
+		"ecdc_dataleke_ls_properties_typeProperties_url": {
+			"value": "https://ecdcdatalakesa.dfs.core.windows.net/"
+		},
+		"ecdc_http_ls_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
