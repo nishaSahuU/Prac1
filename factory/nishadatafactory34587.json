@@ -1,0 +1,9 @@
+{
+	"name": "nishadatafactory34587",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ae2ff5cb-680f-4fe4-bdc1-0a78d09a9f87",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
