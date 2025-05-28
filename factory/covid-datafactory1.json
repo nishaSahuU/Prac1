@@ -1,0 +1,9 @@
+{
+	"name": "covid-datafactory1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "108fa302-305a-4cdb-ae9a-f9df20a86fca",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
